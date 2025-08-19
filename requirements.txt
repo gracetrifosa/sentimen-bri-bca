@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+Sastrawi
+requests
+certifi
